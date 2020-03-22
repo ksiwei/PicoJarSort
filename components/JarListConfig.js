@@ -5,7 +5,7 @@ const { Value } = Animated;
 
 const DEFAULT_DATA = [...new Array(20).keys()];
 
-const COL_NUM = 4;
+const COL_NUM = 3;
 const ROW_NUM = Math.ceil(DEFAULT_DATA.length / COL_NUM);
 const GUTTER = 12;
 const SIZE = theme.getSizeForColumns(COL_NUM, GUTTER, 1.2);

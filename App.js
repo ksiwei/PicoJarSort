@@ -11,10 +11,10 @@ import { verticalSwipeToggle } from './animationUtil/toggleSpring';
 
 const { Value, event } = Animated;
 
-const cardWidth = theme.width * 0.7;
-const cardHeight = (theme.height - 28) * 0.7; //TODO use modal height instead
+const cardWidth = theme.width * 0.6;
+const cardHeight = theme.height * 0.6; //TODO use modal height instead
 const initialCardX = theme.width / 2 - cardWidth / 2;
-const initialCardY = theme.height / 2 - cardHeight / 2 - 48;
+const initialCardY = theme.height / 2 - cardHeight / 2 - 80;
 
 const transition = <Transition.Change durationMs={200} interpolation="easeInOut" />;
 
