@@ -36,8 +36,8 @@ WHEN a user drags the screenshot up.
 
 THEN the screenshot becomes full screen.  
 
+[Mock-up](https://www.figma.com/proto/KsOGvQvLZLH9FMkrtCwEk3/PicoJarV1?node-id=59%3A491&scaling=min-zoom)
 
-<iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FKsOGvQvLZLH9FMkrtCwEk3%2FPicoJarV1%3Fnode-id%3D59%253A491%26scaling%3Dmin-zoom" allowfullscreen></iframe>
 
 ### Step 2:
 
@@ -49,7 +49,8 @@ IF the bottom-left corner of screenshot is within a Jar,
 
 THEN the screenshot takes over the space of the Jar.  
 
-<iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FKsOGvQvLZLH9FMkrtCwEk3%2FPicoJarV1%3Fnode-id%3D59%253A612%26scaling%3Dmin-zoom" allowfullscreen></iframe>
+[Mock-up](https://www.figma.com/proto/KsOGvQvLZLH9FMkrtCwEk3/PicoJarV1?node-id=59%3A552&scaling=min-zoom)
+
 
 ### Step 3:
 
@@ -61,5 +62,4 @@ IF the bottom-left corner of screenshot is outside of a Jar,
 
 THEN the screenshot becomes a new Jar and push the rest of Jars forward and downward.  
 
-
-<iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FKsOGvQvLZLH9FMkrtCwEk3%2FPicoJarV1%3Fnode-id%3D59%253A655%26scaling%3Dmin-zoom" allowfullscreen></iframe>
+[Mock-up](https://www.figma.com/proto/KsOGvQvLZLH9FMkrtCwEk3/PicoJarV1?node-id=59%3A655&scaling=min-zoom)
