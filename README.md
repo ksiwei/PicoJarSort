@@ -1,17 +1,17 @@
 # Task
 
-This task is not trivial, so don't panic if you get stuck or have to google a lot. To complete this task you will need to understand:
+This task is not trivial, so don't panic if you get stuck or have to google a lot. To complete this task you will need to learn:
 
 1. [react-native](https://github.com/facebook/react-native)
 2. [react-native-reanimated](https://github.com/software-mansion/react-native-reanimated)
 
-I learned how to use react-native-reanimated is this youtube series with source code: https://github.com/wcandillon/can-it-be-done-in-react-native
+I learned how to use react-native-reanimated by watching this youtube series and reading its source code: https://github.com/wcandillon/can-it-be-done-in-react-native
 
 A few things to note:
 
-1. Feel free to ask me any question at any time! react-native-reanimated is hard, it took me a long time to learn it.
-2. The source code is not holy grail, you can change anything.
-3. Update your progress on the task every day or every other day if you can, just like how we will work together.
+1. Ask me any question at any time! react-native-reanimated is hard, it took me a long time to learn it.
+2. The source code is not holy grail, feel free to can change anything.
+3. Give me an update on your progress every day or every other day if you can, just like how we will work together.
 4. Any suggestion welcome.
 
 # Setup:
