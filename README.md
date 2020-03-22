@@ -33,15 +33,20 @@ We want to change that gesture into drag-and-drop as a lot of people confuse tap
 ### Step 1:
 
 WHEN a user drags the screenshot up. 
+
 THEN the screenshot becomes full screen.  
+
 
 <iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FKsOGvQvLZLH9FMkrtCwEk3%2FPicoJarV1%3Fnode-id%3D59%253A491%26scaling%3Dmin-zoom" allowfullscreen></iframe>
 
 ### Step 2:
 
-WHEN a user drags the screenshot down. 
+WHEN a user drags the screenshot down.
+
 AND the user release the drag. 
-IF the bottom-left corner of screenshot is within a Jar,  
+
+IF the bottom-left corner of screenshot is within a Jar, 
+
 THEN the screenshot takes over the space of the Jar.  
 
 <iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FKsOGvQvLZLH9FMkrtCwEk3%2FPicoJarV1%3Fnode-id%3D59%253A612%26scaling%3Dmin-zoom" allowfullscreen></iframe>
@@ -49,8 +54,12 @@ THEN the screenshot takes over the space of the Jar.
 ### Step 3:
 
 WHEN a user drags the screenshot down,  
+
 AND the user release the drag  
+
 IF the bottom-left corner of screenshot is outside of a Jar,  
+
 THEN the screenshot becomes a new Jar and push the rest of Jars forward and downward.  
+
 
 <iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FKsOGvQvLZLH9FMkrtCwEk3%2FPicoJarV1%3Fnode-id%3D59%253A655%26scaling%3Dmin-zoom" allowfullscreen></iframe>
