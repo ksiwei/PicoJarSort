@@ -10,7 +10,7 @@ I learned how to use react-native-reanimated by watching this youtube series and
 A few things to note:
 
 1. Ask me any question at any time! react-native-reanimated is hard, it took me a long time to learn it.
-2. The source code is not holy grail, feel free to can change anything.
+2. The source code is not holy grail, feel free to change anything.
 3. Give me an update on your progress every day or every other day if you can, just like how we will work together.
 4. Any suggestion welcome.
 
