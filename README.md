@@ -36,7 +36,7 @@ WHEN a user drags the screenshot up.
 
 THEN the screenshot becomes full screen.  
 
-[Mock-up](https://www.figma.com/proto/KsOGvQvLZLH9FMkrtCwEk3/PicoJarV1?node-id=59%3A491&scaling=min-zoom)
+[Mock-up](https://www.figma.com/proto/KsOGvQvLZLH9FMkrtCwEk3/PicoJarV1?node-id=59%3A442&scaling=min-zoom)
 
 
 ### Step 2:
@@ -62,4 +62,4 @@ IF the bottom-left corner of screenshot is outside of a Jar,
 
 THEN the screenshot becomes a new Jar and push the rest of Jars forward and downward.  
 
-[Mock-up](https://www.figma.com/proto/KsOGvQvLZLH9FMkrtCwEk3/PicoJarV1?node-id=59%3A655&scaling=min-zoom)
+[Mock-up](https://www.figma.com/proto/KsOGvQvLZLH9FMkrtCwEk3/PicoJarV1?node-id=59%3A693&scaling=min-zoom)
